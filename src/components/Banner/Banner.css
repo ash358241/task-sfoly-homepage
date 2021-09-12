@@ -1,0 +1,40 @@
+
+.banner{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.288),rgba(0, 0, 0, 0.37)),url(../../img/pexels-andrea-piacquadio-927451.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.bannerContent{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+}
+
+.bannerContent Button{
+    padding: 10px;
+    width: 300px;
+    
+}
+.bannerContent Button:last-child{
+    margin-left: 10px;
+}
+
+.banner h1{
+    color: white;
+    font-weight: bolder;
+}
+
+@media (max-width: 668px){
+    .bannerContent Button{
+        display: flex;
+        flex-direction: column;
+    }
+    .bannerContent Button:last-child{
+        margin-left: 0;
+        margin-top: 10px;
+    }
+}

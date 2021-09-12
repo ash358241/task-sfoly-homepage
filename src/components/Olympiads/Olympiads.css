@@ -1,0 +1,9 @@
+.olympiadsDiv{
+    background-color: #202c4e;
+    min-height: 100vh;
+}
+
+.olympiadsDiv h1{
+    text-align: center;
+    color: white;
+}

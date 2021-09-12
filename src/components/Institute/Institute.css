@@ -1,0 +1,23 @@
+.institute{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 1px solid cyan;
+    
+}
+
+.insDiv{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.insDiv h3{
+    color: cyan;
+}
+
+.insDiv img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    padding: 10px;
+}

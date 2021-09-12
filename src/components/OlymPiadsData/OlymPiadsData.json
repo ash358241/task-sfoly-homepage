@@ -1,0 +1,45 @@
+ [
+    {
+        "id": 1,
+        "logo": "https://leverageedu.com/blog/wp-content/uploads/2020/04/basic-chemistry.png",
+        "title": "SISO",
+        "description": "The Springfield International Science Olympiad (SISO), a test of competence and knowledge in the subject of Science, is held based on syllabus prescribed by CBSE/ ICSE and the State Boards.",
+        "explore": "Know More"
+    },
+    {
+        "id": 2,
+        "logo": "https://image.freepik.com/free-vector/math-background_23-2148147194.jpg",
+        "title": "SIMO",
+        "description": "The Springfield International Mathematics Olympiad (SIMO), a test of competence and knowledge in the subject of Mathematics, is held based on syllabus prescribed by CBSE/ ICSE and the State Boards.",
+        "explore": "Know More"
+    },
+    {
+        "id": 3,
+        "logo": "https://leverageedu.com/blog/wp-content/uploads/2019/11/PhD-in-English.jpg",
+        "title": "SIEO",
+        "description": "The Springfield International English Olympiad (SIEO), a test of competence and knowledge in the subject of English, is held based on syllabus prescribed by CBSE/ICSE and the State Boards.",
+        "explore": "Know More"
+    },
+    {
+        "id": 4,
+        "logo": "https://media.gcflearnfree.org/content/55e0730c7dd48174331f5164_01_17_2014/whatisacomputer_desktop_computers.jpg",
+        "title": "SICO",
+        "description": "The Springfield International Cyber Olympiad (SICO), a test of competence and knowledge in the Cyber Domain, is held based on syllabus prescribed by CBSE/ICSE and the State Boards.",
+        "explore": "Know More"
+    },
+    {
+        "id": 5,
+        "logo": "https://www.thea-blast.org/wp-content/uploads/2014/05/Grad.jpg",
+        "title": "Grads Olympiad",
+        "description": "The Grads Olympiad is one of its kind Olympiad, primarily focusing on MBA aspirants. This is an online multiple-choice question based Olympiad.",
+        "explore": "Know More"
+    },
+    {
+        "id": 6,
+        "logo": "https://assets.fullertonindia.com/sites/default/files/Business-Finance.jpg?KVmgVTpKCmZUd5WBoBzPhC88PpsQLrZA",
+        "title": "Finance Olympiad",
+        "description": "The Finance Olympiad is a specially curated Olympiad, made with a purpose to inculcate the habit and increase the knowledge of personal finances in a fun way.",
+        "explore": "Know More"
+    }
+]
+
